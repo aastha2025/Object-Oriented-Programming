@@ -23,8 +23,8 @@ int getyearsold(){
 
 // access together
 
-pair<string , int>getuniverseinfo(){
-    return make_pair(solar_system_name , years_old);
+void getuniverseinfo(){
+cout<<solar_system_name << years_old<<endl;
 }
 
 // set value by setter 
@@ -37,7 +37,7 @@ void setyearsold(int year){
 }
 // set value without setter
 
-pair<string , int>setuniverseinfo(string name , int year){
+int  setuniverseinfo(string name , int year){
     solar_system_name = name;
     years_old = year;
 }
