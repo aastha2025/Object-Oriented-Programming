@@ -26,7 +26,7 @@ Access modifiers are used to implement an important aspect of Object-Oriented Pr
              NOTE:-> hence use inheritance (subclass) for betterness.
 
 
-#constructors: 
+**#constructors: **can not be declared virtual
 1. Constructor  name is the same as the class name .Constructor is invoked at the time of object creation.It do not return value, hence they do not have a return type. It gets called automatically when we create the object of the class.  Provides data for the object. can be overloaded.can not be declared virtual.
 There are total 4 types of constructor:
 copy  , parametrized , default , move 
