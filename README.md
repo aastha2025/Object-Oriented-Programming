@@ -1,15 +1,15 @@
 # Object-Oriented-Programming
 
 
-# basic_OOPs
+## basic_OOPs
 
-## Class And Objects:
+### Class And Objects:
 
-## Access Modifiers:
+### Access Modifiers:
   
 
-# 4pillars:
-## Abstraction:
-## Encapsulation:
-## Polymorphism:
-## Inheritance:
+## 4pillars:
+### Abstraction:
+### Encapsulation:
+### Polymorphism:
+### Inheritance:
