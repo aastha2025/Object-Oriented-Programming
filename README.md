@@ -20,8 +20,7 @@
 ### Abstraction:
 - Hiding all unnecessary details & showing only the important parts.
  -       ----------(sensitive info)----------------
-- one of the way is :
-- Use of access modifier we can implement abstractions.
+- one of the way is : Use of access modifier we can implement abstractions.
 
 ### Encapsulation:
 - Encapsulation: It is wrapping up of data & member funcitons in a single unit called class.
@@ -30,16 +29,15 @@
 - Helps in data hiding : hide sensitive information by using private access modifier.
    
 ### Polymorphism:
-- poly: multiple
- - morph: forms 
+- poly: multiple and morph: forms 
 
 - Polymorphism is the ability of objects to take on  DIFFERENT FROMS or behave in different ways DEPENDING ON THE CONTEXT in which they are used.
 
 - There are 2 types of polymorphism
 
-- Compile Time Polymorphism (Constuctor overloading , Function overloading ,Operator overloading)
+- 1) Compile Time Polymorphism (Constuctor overloading , Function overloading ,Operator overloading)
 
-- Run Time Polymorphism (Function Overriding , Virtual Functions)
+- 2) Run Time Polymorphism (Function Overriding , Virtual Functions)
 
 ### Inheritance:
 - When properties & member functions of BASE class are passed on to the DERIVED class.
